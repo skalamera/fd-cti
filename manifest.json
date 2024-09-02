@@ -15,7 +15,7 @@
     "support_ticket": {}
   },
   "engines": {
-    "node": "18.18.2",
-    "fdk": "9.1.0"
+    "node": "18.20.4",
+    "fdk": "9.2.0"
   }
 }
